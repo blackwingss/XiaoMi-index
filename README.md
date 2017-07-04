@@ -20,5 +20,7 @@
 ### 项目运行
 
 进入项目目录
+
 npm install
+
 npm run dev
