@@ -16,3 +16,9 @@
 ![](public/assets/view1.png)
 ![](public/assets/view2.png)
 ![](public/assets/cart.png)
+
+### 项目运行
+
+进入项目目录
+npm install
+npm run dev
